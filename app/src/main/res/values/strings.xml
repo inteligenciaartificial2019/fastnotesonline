@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FastNotesOnline</string>
+    <string name="hint_titulo">Título de la tarea</string>
+    <string name="hint_descripcion">Descripción de la tarea</string>
+    <string name="rbBaja">Baja</string>
+    <string name="rbMedia">Media</string>
+    <string name="rbAlta">Alta</string>
+    <string name="btnAgregar">Agregar la nota</string>
+</resources>

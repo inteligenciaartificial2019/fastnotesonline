@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066031659408",
+    "firebase_url": "https://fastnotesonline.firebaseio.com",
+    "project_id": "fastnotesonline",
+    "storage_bucket": "fastnotesonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066031659408:android:220a995f79ae6711",
+        "android_client_info": {
+          "package_name": "tech.twentytwobits.fastnotesonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066031659408-4do6lteu957jvg9oem830tc5pnqs94or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.twentytwobits.fastnotesonline",
+            "certificate_hash": "3bfe42085b0d12c22609de7566be32e7c68a4d8f"
+          }
+        },
+        {
+          "client_id": "1066031659408-6n6gu7m0q3r9efbfni82mqrh5en5bje4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8AvMNsKqjhhjtEnAuvSh6cGfG-XUsNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066031659408-6n6gu7m0q3r9efbfni82mqrh5en5bje4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
